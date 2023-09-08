@@ -12,4 +12,5 @@ nota2 = input("digite sua segunda nota:")
 soma_2_notas = int(nota1) + int(nota2)
 
 
+
 print(f" {nome} a soma de suas notas é {soma_2_notas}")
